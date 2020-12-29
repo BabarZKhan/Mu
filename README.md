@@ -1,4 +1,4 @@
-Mu
+small_expression_parser
 ==
 
 A small expression parser, using ANTLR 4. It supports most basic operators
