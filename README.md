@@ -8,7 +8,7 @@ demonstration of how to use the `-visitor` functionality of ANTLR 4.
 To run [the demo script](https://github.com/bkiers/Mu/blob/master/src/main/mu/test.mu):
 
 ```
-n = 9;
+n = 10;
 
 while n > 0 {
 
